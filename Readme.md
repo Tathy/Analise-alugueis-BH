@@ -1,0 +1,1 @@
+# Análise sobre preços de aluguéis em Belo Horizonte
